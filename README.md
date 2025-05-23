@@ -40,6 +40,20 @@ Actor Framework (AF) is NI’s reference implementation of the Actor Model in La
 
 ---
 
+## Options
+
+Patched version to use common names for the folder structure of an actor.
+
+Add following entry to `LabVIEW.ini`
+
+```ìni
+AFProjectProvider.UseCommonFolderNames=True
+```
+
+Find changes within code use the bookmark manager with the bookmark `#UseCommonFolderNames`
+
+---
+
 ## Contributing
 
 We welcome both code and non-code contributions – everything from bug fixes and performance tweaks to documentation, testing, and discussion.
