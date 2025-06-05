@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-24 12:51:32" Modified_Date="2025-04-29 13:31:40" Creator="allen" Comments="" ID="3a4d21054909ca7e843802336789e6f8">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-10-24 12:51:32" Modified_Date="2025-06-05 15:09:57" Creator="allen" Comments="" ID="98fb1650f08c52d46aa9c8f1de0d56ea">
   <Library_General_Settings>
     <Package_File_Name>Actor_Framework_Project_Providers_2024_for_2020</Package_File_Name>
-    <Library_Version>1.1.100.11</Library_Version>
+    <Library_Version>1.1.100.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\Builds</Library_Output_Folder>
@@ -34,7 +34,9 @@
       <Copyright>Copyright (c) 2024, NI</Copyright>
       <Packager>Allen C Smith</Packager>
       <URL/>
-      <Release_Notes>Fix/Bug &gt;= 100: Patched version to use common folder names option</Release_Notes>
+      <Release_Notes>Fix/Bug &gt;= 100: Patched version to use common folder names option
+
+Fix trailing space in message maker</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
