@@ -1,3 +1,6 @@
+[![Discord](https://img.shields.io/discord/1319915996789739540?label=chat&logo=discord&style=flat)](https://discord.gg/q4d3ggrFVA)
+![Coding hours](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ni/actor-framework/metrics/badge.json)
+
 # 🧩 Actor Framework
 
 
